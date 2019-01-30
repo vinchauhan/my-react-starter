@@ -1,0 +1,19 @@
+$navy: #001e38;
+$primary-green: #15b78f;
+$primary-teal: #6CCA95;
+
+html
+{
+background-color: $primary-teal;
+font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    //width: 100vh;
+    //display: flex;
+    justify-content: center;
+    align-items: center;
+    //font-family: monospace;
+}
+
