@@ -1,19 +1,23 @@
 $navy: #001e38;
 $primary-green: #15b78f;
-$primary-teal: #6CCA95;
+$primary-teal: #6cca95;
 
-html
-{
-background-color: $primary-teal;
-font-family: 'Roboto', sans-serif;
+// html {
+//   background-color: $primary-teal;
+//   font-family: "Roboto", sans-serif;
+// }
+
+#rally-poker {
+  position: fixed;
+  bottom: 0px;
+  margin-bottom: 15px;
 }
 
-body {
-    margin: 0;
-    //width: 100vh;
-    //display: flex;
-    justify-content: center;
-    align-items: center;
-    //font-family: monospace;
-}
-
+// body {
+//   margin: 0;
+//   //width: 100vh;
+//   //display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   //font-family: monospace;
+// }
