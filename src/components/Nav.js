@@ -4,10 +4,10 @@ import './Nav.scss'
 export class Nav extends React.Component {
     render() {
         return(
-            <nav class="navbar navbar-light navbar-expand-lg bg-light py-3 px-5">
+            <nav class="navbar navbar-expand-lg bg-light py-3 px-5">
                 <a class="navbar-brand" href="#">ClinicalTrials</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon">Hello</span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <div class="navbar-nav nav-fill w-75 mx-auto">
